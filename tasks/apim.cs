@@ -10,7 +10,7 @@ namespace PulumiGithub.Templates
     {
         public void RetrieveData()
         {
-            Console.WriteLine("Hello apim")
+            Console.WriteLine("Hello apim");
 
         }
     }
